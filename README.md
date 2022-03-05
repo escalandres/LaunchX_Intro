@@ -34,7 +34,7 @@ Se realizaron 4 vistas:
     Abogado para vista Móvil
     Cliente para vista de Escritorio
     Cliente para vista Móvil
-Se utilizo la herramienta Balsamic: https://balsamiq.cloud/
+Se utilizo la herramienta Lucidchart: https://www.lucidchart.com/
 
 5. UI
 El diseño de la interfaz de usuario cuenta con 4 vistas:
