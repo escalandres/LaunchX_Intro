@@ -42,4 +42,4 @@ El diseño de la interfaz de usuario cuenta con 4 vistas:
     Abogado para vista Móvil
     Cliente para vista de Escritorio
     Cliente para vista Móvil
-Se utilizo la herramienta Figma: https://www.figma.com/
+Se utilizo la herramienta Adoble Illustrator
